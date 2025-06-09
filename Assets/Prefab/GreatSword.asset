@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: GreatSword
+  m_EditorClassIdentifier: Assembly-CSharp::Weapon
+  id: 9
+  itemName: Great Sword
+  max_stack: 1
+  icon: {fileID: 21300000, guid: ac0aaecf258da44b68a22dd64772fc59, type: 3}
+  isStackable: 0
+  prefab: {fileID: 1065681098921076, guid: c1d921b1a3ab54e73b558cb314d0fbd1, type: 3}
+  itemType: 3
+  weaponName: Great Sword
+  model: {fileID: 1065681098921076, guid: c1d921b1a3ab54e73b558cb314d0fbd1, type: 3}
+  attackDamage: 7

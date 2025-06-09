@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: ISword
+  m_EditorClassIdentifier: Assembly-CSharp::Weapon
+  id: 5
+  itemName: Iron Sword
+  max_stack: 1
+  icon: {fileID: 21300000, guid: f7a22ebd515944e9bbe7c01bfa6fa0ec, type: 3}
+  isStackable: 0
+  prefab: {fileID: 1476564074300938, guid: 9e97caed3033d4a588a09f62d17c27b8, type: 3}
+  itemType: 3
+  weaponName: ISword
+  model: {fileID: 1476564074300938, guid: 9e97caed3033d4a588a09f62d17c27b8, type: 3}
+  attackDamage: 6

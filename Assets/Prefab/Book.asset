@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Book
+  m_EditorClassIdentifier: Assembly-CSharp::Book
+  id: 200
+  itemName: Book
+  max_stack: 64
+  icon: {fileID: 21300000, guid: 06ac97b6df131442ba6b24e80478a58c, type: 3}
+  isStackable: 1
+  prefab: {fileID: 4704259207791860782, guid: d983210da5289438cb31d68778374e8d, type: 3}
+  itemType: 5
+  xpAmount: 50
+  UltraBook: 0

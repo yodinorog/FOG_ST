@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: potion3
+  m_EditorClassIdentifier: Assembly-CSharp::Potion
+  id: 99
+  itemName: Mega Potion
+  max_stack: 64
+  icon: {fileID: 21300000, guid: a9c8b60e5e3794de8a54cf31e5469481, type: 3}
+  isStackable: 1
+  prefab: {fileID: 138800, guid: e4a50c66859d1415eaa2293c1776d763, type: 3}
+  itemType: 4
+  healingAmount: 100
+  UltraPotion: 0
